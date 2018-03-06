@@ -5,6 +5,7 @@
 |key|value|
 |---|-----|
 |Name|髙橋 一樹 (Kazuki Takahashi))|
+|BirthDay|1984/07/04|
 |Twitter|[@ronkovic](https://twitter.com/ronkovic)|
 |Instagram|[@ron_kovic](https://www.instagram.com/ron_kovic/)|
 |facebook|[髙橋 一樹](https://www.facebook.com/takahashi.kazuki.5)|
@@ -31,8 +32,10 @@
 
 ### フレームワーク・ライブラリ・その他
 
-- [Angular2](https://angular.io/)
+- [Angular](https://angular.io/)
   - 2017年04月から業務で使用
+- [Vue.js](https://jp.vuejs.org/)
+  - 今後のフロント開発はこれでやりたい
 - [Unity](https://unity3d.com/jp/)
   - 約5年の経験
   - 主にwindowsアプリを作っていた。iOSもたまに。
@@ -54,6 +57,7 @@
 
 ### バージョン管理
 - Git
+- Github
 - SVN(ほぼ忘れた)
 
 ## 強み
@@ -64,6 +68,8 @@
 ## やったことはないが興味があるもの
 - 機械学習
 - AI
+- 仮想通貨
+- ブロックチェーン
 
 ## 登壇歴
 - スタートアップのイベントで少し
@@ -82,10 +88,20 @@
 
 ### 2017/04 - : 株式会社トップゲート
 
-職務: フロントエンジニア
+職務: マネージャ, フロントエンジニア, PM/PL, 採用
 
-#### フロント開発
-- Angular2を使用した開発
+#### マネージャ
+- 7人規模のラインマネージャ
+
+#### フロントエンジニア
+- Angularを使用した開発
+
+#### PM/PL
+- 6人規模のチームのPM/PL
+
+#### 採用
+- エンジニアの1次面接官
+- その他、採用イベントの開催
 
 ### 2016/11 - 2017/03: （ダイヤモンドヘッド株式会社）
 
