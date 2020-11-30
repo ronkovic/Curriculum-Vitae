@@ -6,10 +6,12 @@
 |---|-----|
 |Name|髙橋 一樹 (Kazuki Takahashi)|
 |BirthDay|1984/07/04|
+<!--
 |Twitter|[@ronkovic](https://twitter.com/ronkovic)|
 |Instagram|[@ron_kovic](https://www.instagram.com/ron_kovic/)|
 |facebook|[髙橋 一樹](https://www.facebook.com/takahashi.kazuki.5)|
 |Qiita|[ronkovic](https://qiita.com/ronkovic)|
+-->
 
 ## スキル
 
